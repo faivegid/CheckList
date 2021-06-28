@@ -1,0 +1,13 @@
+C:\Users\hp\source\repos\CheckList\CheckList\obj\Debug\netcoreapp3.1\CheckList.csproj.AssemblyReference.cache
+C:\Users\hp\source\repos\CheckList\CheckList\obj\Debug\netcoreapp3.1\CheckList.AssemblyInfoInputs.cache
+C:\Users\hp\source\repos\CheckList\CheckList\obj\Debug\netcoreapp3.1\CheckList.AssemblyInfo.cs
+C:\Users\hp\source\repos\CheckList\CheckList\obj\Debug\netcoreapp3.1\CheckList.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\CheckList\CheckList\bin\Debug\netcoreapp3.1\CheckList.exe
+C:\Users\hp\source\repos\CheckList\CheckList\bin\Debug\netcoreapp3.1\CheckList.deps.json
+C:\Users\hp\source\repos\CheckList\CheckList\bin\Debug\netcoreapp3.1\CheckList.runtimeconfig.json
+C:\Users\hp\source\repos\CheckList\CheckList\bin\Debug\netcoreapp3.1\CheckList.runtimeconfig.dev.json
+C:\Users\hp\source\repos\CheckList\CheckList\bin\Debug\netcoreapp3.1\CheckList.dll
+C:\Users\hp\source\repos\CheckList\CheckList\bin\Debug\netcoreapp3.1\CheckList.pdb
+C:\Users\hp\source\repos\CheckList\CheckList\obj\Debug\netcoreapp3.1\CheckList.dll
+C:\Users\hp\source\repos\CheckList\CheckList\obj\Debug\netcoreapp3.1\CheckList.pdb
+C:\Users\hp\source\repos\CheckList\CheckList\obj\Debug\netcoreapp3.1\CheckList.genruntimeconfig.cache
