@@ -4,8 +4,8 @@ namespace CheckList
 {
     public class ToDoList
     {
-        private int serialNo;
-        private string itemName;
+        public int serialNo { get; }
+        public string itemName { get; }
         public bool isDone { get; set; } = false;
 
         public ToDoList(int serialNo, string itemName)
@@ -16,6 +16,23 @@ namespace CheckList
 
         public string ObjName() { return itemName; }
 
-        public void Print() { Console.WriteLine($"{serialNo} {itemName}: {isDone}"); }
+        public void Print() 
+        {
+            string print = $"| {serialNo} |      {itemName}:      |  {isDone}  |";
+
+            for (int i = 0; i < print.Length; i++)
+            {
+                Console.Write("-");
+            }
+            Console.WriteLine();
+            Console.WriteLine(print);
+
+            for (int i = 0; i < print.Length; i++)
+            {
+                Console.Write("-");
+            }
+
+            Console.WriteLine();
+        }
     }
 }
